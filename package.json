@@ -1,6 +1,6 @@
 {
   "name": "@valudio/electron-notifications",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "A node module for sending notifications in electron applications",
   "main": "index.js",
   "scripts": {
@@ -30,10 +30,10 @@
     ]
   },
   "devDependencies": {
-    "electron": "^1.7.9",
-    "standard": "^8.0.0"
+    "electron": "^5.0.6",
+    "standard": "^13.0.2"
   },
   "dependencies": {
-    "electron-is": "^2.3.0"
+    "electron-is": "^3.0.0"
   }
 }
